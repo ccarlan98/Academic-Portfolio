@@ -10,4 +10,4 @@ Logistic regression is applied to predict hospital readmissions based on patient
 
 **Implications:** Logistic regression alone may not be effective for this prediction; further refinement or additional predictors are needed.
 
-**Tools and Techniques:** Logistic regression modeling was performed in R, with evaluation metrics including AIC and accuracy​(Logistic Regression).
+**Tools and Techniques:** Logistic regression modeling was performed in R, with evaluation metrics including AIC and accuracy.
