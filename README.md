@@ -1,4 +1,4 @@
-This portfolio showcases a comprehensive collection of data science and analytics projects, covering the entire data pipeline and advanced analytical techniques. Each folder represents a key step or methodology, including:
+This portfolio showcases a comprehensive collection of data science and analytics projects which were completed during my graduate studies, covering the entire data pipeline and advanced analytical techniques. Each folder represents a key step or methodology, including:
 
   1. Data Acquisition & Cleaning: Methods to gather and preprocess raw data for analysis.
 
